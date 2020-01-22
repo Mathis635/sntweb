@@ -1,2 +1,2 @@
 # sntweb
-SNT WEB homeworkk
+SNT WEB homework
